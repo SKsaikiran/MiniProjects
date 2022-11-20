@@ -4,4 +4,5 @@
 
 |**- Output in BLYNK Webapp**|
 |:-----|
-![](https://user-images.githubusercontent.com/89591339/202890652-bfe57d92-3001-4882-8122-27b86bcdaebd.png)
+![.](https://user-images.githubusercontent.com/89591339/202890858-a082c8ac-2d10-4259-b177-c2b5c76a1bad.png)
+
